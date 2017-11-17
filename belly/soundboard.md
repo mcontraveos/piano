@@ -36,3 +36,26 @@ But luckily, there's some actual science being done:
 
 Lastly, Del acknowledges the great power of suggestion! [Pianoworld Forums.](http://forum.pianoworld.com/ubbthreads.php/topics/2465772/re-laminated-soundboards.html#Post2465772)
 
+# Approach
+
+Blackbird Guitar (San Francisco) developed a material, Ekoa, for use in their acoustic guitars after their experiments with carbon fiber provided them with good yet suboptimal results. [More on Ekoa.](https://www.blackbirdguitar.com/blogs/news/93442822-ekoa-versus-carbon-fiber)
+
+This use of Ekoa led them to spin off their own new company -- Lingrove, which makes composites like Ekoa and carbon fiber.
+
+*TAKEAWAY: Ekoa, according to the manufacturers, affords the stiffness of "old growth" spruce (or tonewood) without the susceptibility to climate fluctiations that woods exhibit.* More investigation is needed, of course.
+
+
+To do:
+1. Set up an appointment at the BG factory
+1. See as much as you can of how BG is making their guitar soundboards our of Ekoa
+   - What other materials are used?
+   - Is molding what they use to provide shape to the soundboard?
+1. Answer some general questions:
+   - What's the stress capacity of Ekoa?
+   - Will an Ekoa soundboard scale to the size of a concert grand piano, or at least a 7'-long piano?
+
+Unresolved questions:
+1. How do you attach a bridge to Ekoa? Is an entirely different approach to connecting the strings to the soundboard in order?
+   *Possible answer: Look at how the bridge is attached to carbon-fiber soundboards.*
+   
+

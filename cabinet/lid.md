@@ -14,10 +14,11 @@ While open, the lid is only connected to the piano by the hinges, which, I'd hav
 ## Alternatives
 
 ### Aluminum comb core
-Steingräber said "fekk this" and basically wrapped aluminum honeycomb in some veneer and called it a day:
+Steingräber said "to hell with this" and basically wrapped aluminum honeycomb in some veneer and called it a day:
 [https://youtu.be/-EH06hM8H5U?t=132](https://youtu.be/-EH06hM8H5U?t=132)
 * I can't see how this does a "better job" (Hugh Sung's words) of reflecting the sound. If anything, I think it could only do as good a job of a solid/composite lid at best, but certainly not better, on account of the honeycomb's significantly lower density.
 * How will the honeycomb lid stand up to warping?
 * Comb itself should be layered between two sheets of aluminum, which is fairly common when buying wholesale aluminum core.
 
-
+### Bamboo
+Bamboo in piano construction deserves its own section, but bears making a few remarks here. If the aluminum comb core idea proves too expensive or impossible to engineer otherwise, bamboo has shown great characteristics (sustainability, durability) that make it a candidate for construction of the lid.

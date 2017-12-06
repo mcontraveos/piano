@@ -22,3 +22,6 @@ Steingräber said "to hell with this" and basically wrapped aluminum honeycomb i
 
 ### Bamboo
 Bamboo in piano construction deserves its own section, but bears making a few remarks here. If the aluminum comb core idea proves too expensive or impossible to engineer otherwise, bamboo has shown great characteristics (sustainability, durability) that make it a candidate for construction of the lid.
+
+Bill Bremmer offers:
+> The most recent lids have been made of high density particle board and that does the trick for keeping them flat and warp free but they weigh SO much that many piano owners cannot lift them. There is little doubt that a bamboo fabricated lid can remain flat and thus resist warping and it would be far lighter, maybe even lighter than traditional wood panel lids. 

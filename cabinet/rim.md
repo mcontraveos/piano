@@ -16,4 +16,5 @@ Rim thickness varies by manufacturer, but these all seem to follow the trend of 
 
 In the context of a much, much lower tension instrument, is there any way the rims can be turned from resonators to transducers? Would that even be a desirable quality?
 
-Putting that aside, it seems this would be a great area to use bamboo -- lightweight, dense and strong material.
+**Bamboo**: Bill Bremmer offers:
+> The most recent lids have been made of high density particle board and that does the trick for keeping them flat and warp free but they weigh SO much that many piano owners cannot lift them. There is little doubt that a bamboo fabricated lid can remain flat and thus resist warping and it would be far lighter, maybe even lighter than traditional wood panel lids. 
